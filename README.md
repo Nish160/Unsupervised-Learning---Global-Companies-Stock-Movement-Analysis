@@ -1,0 +1,2 @@
+# Unsupervised-Learning---Global-Companies-Stock-Movement-Analysis
+Performed Unsupervised learning on the data of Stock Movements from 2010-2015 of 60 global companies . Identified the ideal number of clusters using elbow plots, cluster errors, dendograms, and silhouette coefficients; further improved clustering by reducing the dimensions using PCA to obtain meaningful clusters based on industry types
